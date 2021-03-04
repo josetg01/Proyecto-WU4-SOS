@@ -9,5 +9,5 @@ wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files
 sudo dpkg -i opera-stable_64bits.deb
 sudo apt update
 sudo apt install -y audacity rar vlc
-sudo apt purge -y
+sudo apt purge -y gnome-mines aisleriot gnome-mahjongg quadrapassel gnome-sudoku gimp libreoffice-draw pitivi cheese xfburn libreoffice-base
 sudo apt autoremove -y

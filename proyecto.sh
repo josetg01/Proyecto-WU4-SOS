@@ -10,5 +10,3 @@ sudo dpkg -i opera-stable_64bits.deb
 sudo apt update
 sudo apt upgrade -y
 sudo apt install -y audacity rar vlc
-sudo apt purge -y gnome-mines aisleriot gnome-mahjongg quadrapassel gnome-sudoku gimp pitivi cheese xfburn libreoffice-base parole
-sudo apt autoremove -y

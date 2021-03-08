@@ -1,0 +1,2 @@
+sudo apt purge -y gnome-mines aisleriot gnome-mahjongg quadrapassel gnome-sudoku gimp pitivi cheese xfburn libreoffice-base parole
+sudo apt autoremove -y

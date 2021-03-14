@@ -7,6 +7,7 @@ wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files
 sudo dpkg -i wps-office-fix-es.deb
 wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/opera-stable_64bits.deb/download -O opera-stable_64bits.deb
 sudo dpkg -i opera-stable_64bits.deb
+sudo wget https://iesgoya.com/wp-content/uploads/2020/09/20200910_123446.jpg -O /usr/share/backgrounds/Zorin.png
 sudo apt update
 sudo apt install -y audacity rar vlc
 sudo wget https://github.com/josetg01/Proyecto-WU4-SOS/raw/main/xfce4-zorinmenulite-symbolic.svg -o /usr/share/icons/hicolor/symbolic/apps/xfce4-zorinmenulite-symbolic.svg

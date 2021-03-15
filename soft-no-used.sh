@@ -1,0 +1,3 @@
+sudo apt purge -y firefox-locale-ar firefox-locale-de firefox-locale-fr firefox-locale-it firefox-locale-ja firefox-locale-pt firefox-locale-ru firefox-locale-zh-hans firefox-locale-zh-hant
+sudo apt purge -y
+sudo apt purge -y language-pack-ar language-pack-ar-base language-pack-de language-pack-de-base language-pack-en language-pack-en-base language-pack-fr language-pack-fr-base language-pack-it language-pack-it-base language-pack-ja language-pack-ja-base language-pack-pt language-pack-pt-base language-pack-ru language-pack-ru-base language-pack-zh-hans language-pack-zh-hans-base language-pack-zh-hant language-pack-zh-hant-base

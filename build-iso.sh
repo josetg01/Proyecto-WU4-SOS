@@ -12,4 +12,3 @@ sudo apt update
 sudo apt install -y audacity rar vlc
 sudo apt purge -y gnome-mines aisleriot gnome-mahjongg quadrapassel gnome-sudoku gimp pitivi cheese xfburn libreoffice-base parole remmina thunderbird
 sudo apt autoremove -y
-sudo apt upgrade -y

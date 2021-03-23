@@ -7,4 +7,4 @@ sudo apt purge -y libreoffice-l10n-de libreoffice-l10n-en-gb libreoffice-l10n-en
 sudo apt purge -y wbrazilian witalian wngerman wogerman wportuguese wswiss mythes-ar mythes-de mythes-de-ch mythes-en-au mythes-fr mythes-it mythes-ru mythes-pt-pt
 sudo apt purge -y zorin-os-census
 sudo apt purge -y libblas3 libgfortran4 libkeybinder0 liblapack3 libquadmath0 libwnck-common python-cairo python-dbus python-gconf python-gi python-gobject-2 python-gtk2 python-olefile python-pil python-six python-xdg python-xlib
-sudo apt purge -y dockbarx*
+sudo apt purge -y dockbarx* linux-*5.4.0-66*

@@ -6,5 +6,5 @@ sudo apt purge -y libreoffice-help-de libreoffice-help-en-gb libreoffice-help-en
 sudo apt purge -y libreoffice-l10n-de libreoffice-l10n-en-gb libreoffice-l10n-en-us libreoffice-l10n-fr libreoffice-l10n-it libreoffice-l10n-ja libreoffice-l10n-pt libreoffice-l10n-pt-br libreoffice-l10n-ru libreoffice-l10n-zh-cn libreoffice-l10n-zh-tw
 sudo apt purge -y wbrazilian witalian wngerman wogerman wportuguese wswiss mythes-ar mythes-de mythes-de-ch mythes-en-au mythes-fr mythes-it mythes-ru mythes-pt-pt
 sudo apt purge -y zorin-os-census
-sudo apt purge -y 
+sudo apt purge -y libblas3 libgfortran4 libkeybinder0 liblapack3 libquadmath0 libwnck-common python-cairo python-dbus python-gconf python-gi python-gobject-2 python-gtk2 python-olefile python-pil python-six python-xdg python-xlib
 sudo apt purge -y dockbarx*

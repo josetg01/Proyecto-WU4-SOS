@@ -5,4 +5,6 @@ sudo apt purge -y language-pack-ar language-pack-ar-base language-pack-de langua
 sudo apt purge -y libreoffice-help-de libreoffice-help-en-gb libreoffice-help-en-us libreoffice-help-fr libreoffice-help-it libreoffice-help-ja libreoffice-help-pt libreoffice-help-pt-br libreoffice-help-ru libreoffice-help-zh-cn libreoffice-help-zh-tw
 sudo apt purge -y libreoffice-l10n-de libreoffice-l10n-en-gb libreoffice-l10n-en-us libreoffice-l10n-fr libreoffice-l10n-it libreoffice-l10n-ja libreoffice-l10n-pt libreoffice-l10n-pt-br libreoffice-l10n-ru libreoffice-l10n-zh-cn libreoffice-l10n-zh-tw
 sudo apt purge -y wbrazilian witalian wngerman wogerman wportuguese wswiss mythes-ar mythes-de mythes-de-ch mythes-en-au mythes-fr mythes-it mythes-ru mythes-pt-pt
+sudo apt purge -y zorin-os-census
+sudo apt purge -y 
 sudo apt purge -y dockbarx*

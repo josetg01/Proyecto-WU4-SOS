@@ -5,5 +5,4 @@ sudo apt purge -y language-pack-ar language-pack-ar-base language-pack-de langua
 sudo apt purge -y libreoffice-help-de libreoffice-help-en-gb libreoffice-help-en-us libreoffice-help-fr libreoffice-help-it libreoffice-help-ja libreoffice-help-pt libreoffice-help-pt-br libreoffice-help-ru libreoffice-help-zh-cn libreoffice-help-zh-tw
 sudo apt purge -y libreoffice-l10n-de libreoffice-l10n-en-gb libreoffice-l10n-en-us libreoffice-l10n-fr libreoffice-l10n-it libreoffice-l10n-ja libreoffice-l10n-pt libreoffice-l10n-pt-br libreoffice-l10n-ru libreoffice-l10n-zh-cn libreoffice-l10n-zh-tw
 sudo apt purge -y wbrazilian witalian wngerman wogerman wportuguese wswiss mythes-ar mythes-de mythes-de-ch mythes-en-au mythes-fr mythes-it mythes-ru mythes-pt-pt
-sudo apt purge -y zorin-os-census linux-*5.4.0-66*
-sudo apt purge -y libblas3 libgfortran4 libkeybinder0 liblapack3 libquadmath0 libwnck-common python-cairo python-dbus python-gconf python-gi python-gobject-2 python-gtk2 python-olefile python-pil python-six python-xdg python-xlib
+sudo apt purge -y zorin-os-census

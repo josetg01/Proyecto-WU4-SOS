@@ -3,8 +3,10 @@ wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files
 sudo dpkg -i google-chrome.deb
 wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/wps-office.deb/download -O wps-office.deb
 sudo dpkg -i wps-office.deb
-wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/wps-full-fix-es_1.0-2019_all.deb/download -O wps-office-fix-es.deb
-sudo dpkg -i wps-office-fix-es.deb
+wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/WPS-OFFICE/mui.7z/download -O mui.7z
+7za x mui.7z
+wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/WPS-OFFICE/dicts.7z/download -O dicts.7z
+7za x dicts.7z
 wget --trust-server-name https://sourceforge.net/projects/proyecto-wu4-sos/files/SOFTWARE/opera-stable_64bits.deb/download -O opera-stable_64bits.deb
 sudo dpkg -i opera-stable_64bits.deb
 sudo apt update
